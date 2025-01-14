@@ -2158,7 +2158,7 @@ body.modal{
 	padding-left: 42px;
 }
 .beny_tm_contact .short_list ul li:last-child
-{margin-bottom: 0px;
+{margin-bottom: 100px;
 }
 .beny_tm_contact .short_list ul li .svg{
 	width: 25px;
@@ -2285,6 +2285,7 @@ body.modal{
 	float: left;
 	background-color: #191C26;
 	padding: 55px 0px;
+	
 }
 .beny_tm_copyright .inner{
 	width: 100%;
